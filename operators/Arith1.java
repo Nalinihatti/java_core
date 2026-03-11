@@ -38,10 +38,10 @@ public class Arith1{
         
         // j = 9
         int k = j++; // k = j; j = j + 1;
-        System.out,println(j+","+k); //10, 9
+        System.out.println(j+","+k); //10, 9
 
         int l = ++j; // l = j + 1; 
-        System.out,println(j+","+l); //11, 11
+        System.out.println(j+","+l); //11, 11
 
     }
 }
